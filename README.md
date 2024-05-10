@@ -1,4 +1,4 @@
-### Hi there, I'm Tianxin. 👋
+### Hi there. 👋
 
 My interests are in computer vision and software engineering. 
 
